@@ -21,13 +21,16 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
-<img width="1600" height="1284" alt="image" src="https://github.com/user-attachments/assets/39a4201c-13b5-4dbd-84e9-b20fd07f6145" />
+<img width="1600" height="1471" alt="image" src="https://github.com/user-attachments/assets/7872153d-2738-4ace-bfd0-e675ffc60a10" />
+**TABULAR COLCUM**
+<img width="2534" height="1578" alt="image" src="https://github.com/user-attachments/assets/64c9d75f-81c9-41ee-b47b-1e9f981880d0" />
+
 
 **CALCULATION:**
 
-<img width="1026" height="1480" alt="image" src="https://github.com/user-attachments/assets/c806ced1-217d-413b-b858-547d98502ac1" />
-<img width="974" height="1600" alt="image" src="https://github.com/user-attachments/assets/79820f3c-41b1-4b8b-b6fc-20f84af7d9a1" />
-<img width="921" height="1454" alt="image" src="https://github.com/user-attachments/assets/1f107a0d-0b12-430d-8c26-620ca96d9cd1" />
+<img width="1324" height="1479" alt="image" src="https://github.com/user-attachments/assets/8db3cd39-bb87-43ea-8d27-96e4bb58bc22" />
+<img width="1049" height="1599" alt="image" src="https://github.com/user-attachments/assets/f9de6c10-5c1c-432a-8b29-ea06526d62ca" />
+
 
 
 
@@ -46,8 +49,12 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+   **MARK SPLITUP**
+  	<img width="1488" height="1352" alt="image" src="https://github.com/user-attachments/assets/2518a5de-2b24-41e6-9337-be2949dbdfdd" />
 
    **RESULT:**
+   <img width="1491" height="824" alt="image" src="https://github.com/user-attachments/assets/e6d00bd8-c333-4f77-b7fa-33bd8d033d93" />
+
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
